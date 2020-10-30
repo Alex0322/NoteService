@@ -1,0 +1,2 @@
+guid
+owner_id
